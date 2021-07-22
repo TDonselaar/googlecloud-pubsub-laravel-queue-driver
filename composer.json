@@ -1,5 +1,5 @@
 {
-    "name": "TDonselaar/googlecloud-pubsub-laravel-queue-driver",
+    "name": "tdonselaar/googlecloud-pubsub-laravel-queue-driver",
     "description": "Google Cloud PubSub driver for Laravel/Lumen Queue.",
     "keywords": [
         "queue",
