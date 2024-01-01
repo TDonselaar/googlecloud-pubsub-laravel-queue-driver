@@ -18,13 +18,13 @@
         }
     ],
     "require": {
-        "php": "~7.2",
+        "php": "~7.2|~8.0",
         "ext-json": "*",
         "ramsey/uuid": "^3.0|^4.0",
         "illuminate/queue": "5.7.*|5.8.*|^6.0|^7.0|^8.0",
         "illuminate/support": "5.7.*|5.8.*|^6.0|^7.0|^8.0",
         "google/cloud-pubsub": "^1.21",
-        "twipi-group/googlecloud-pubsub-php-adapter": "^1.0"
+        "tdonselaar/googlecloud-pubsub-php-adapter": "*"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
